@@ -90,7 +90,7 @@
 ## 3. 데이터 분석
 ### 3-1. 데이터 분석 파이프라인
 <div align=center>
-  <img src = 'image.png'>
+  <img src = 'README_images/image.png'>
 </div>
 
 ### 3-2. 분석 축제 선정
@@ -113,41 +113,41 @@
 ---
 #### 지역 내/외 방문 비율, 지역 내 축제 방문객의 이동수단 비율
 <div align=center>
-  <img src = 'image-1.png'>
+  <img src = 'README_images/image-1.png'>
 </div>
 '지역 내 방문'이 99.6%를 차지 축제 방문객 중 76.2%가 차량을 이용하여 축제에 방문
 
 #### 축제별 마지막 도보시간 분포 
 마지막 도보시간이 길수록 방문객의 접근 피로도가 증가할 것이라는 예상
 <div align = 'center'>
-    <img src = 'image-2.png'>
+    <img src = 'README_images/image-2.png'>
 </div>
 강릉, 임실의 마지막 도보시간이 상대적으로 높게 나타남 
 
 #### 루트별 평균 환승 횟수
 루트별 평균 환승 횟수가 많을수록 방문객의 접근 피로도가 증가할 것이라는 예상
 <div align = 'center'>
-    <img src = 'image-3.png'>
+    <img src = 'README_images/image-3.png'>
 </div>
 '부산 -> 임실', '서울 -> 강릉 경포호수광장' 방문객의 루트별 평균 환승 횟수가 높음 
 
 #### 교통수단별 평균 이동속도 (축제기간/전/후 비교)
 축제기간과 축제기간 전/후의 이동속도에 차이가 있을 것이라는 예상
 <div align = 'center'>
-    <img src = 'image-4.png'>
+    <img src = 'README_images/image-4.png'>
 </div>
 축제기간 내 이동수단의 평균 속도가 타 기간에 비해 느림, 축제기간 시 축제지역 내 인구 집중 및 교통체증 발생
 
 #### 축제별 방문객 TOP5 지역
 <div align = 'center'>
-    <img src = 'image-5.png'>
+    <img src = 'README_images/image-5.png'>
 </div>
 축제에 방문한 방문객이 출발한 지역은 모두 축제지 근방임을 확인
 
 #### 축제 체류와 귀가 TOP5 체류
 방문 데이터, 귀가 데이터, 목적별 시간대별 이동/체류 인구 비교
 <div align = 'center'>
-    <img src = 'image-6.png'>
+    <img src = 'README_images/image-6.png'>
 </div>
 시간대별 축제 체류 인구와 귀가 체류 인구가 서로 부합 
 
@@ -184,7 +184,7 @@
         * 도착지: 대전, 부산, 강릉, 임실, 서울 축제 장소
         * 수집 경로<br>
         <div align = 'center'>
-            <img src = 'image-7.png'>
+            <img src = 'README_images/image-7.png'>
         </div>
 * 데이터 상세 설명
     * routeID: 출발지로부터 도착지로 가는 루트 코드
@@ -223,13 +223,13 @@
 ---
 #### 군집 수 결정
 <div align = 'center'>
-    <img src = 'image-9.png'>
+    <img src = 'README_images/image-9.png'>
 </div>
 군집 수가 2일 때, 실루엣 점수가 가장 높지만, 데이터 특성 및 분포를 감안하여 군집 수를 4로 결정
 
 #### 1. 서울 세계 불꽃 축제
 <div align = 'center'>
-    <img src = 'image-10.png'>
+    <img src = 'README_images/image-10.png'>
 </div>
 
 * 축제 특성
@@ -247,7 +247,7 @@
 
 #### 2. 부산 국제 영화제
 <div align = 'center'>
-    <img src = 'image-11.png'>
+    <img src = 'README_images/image-11.png'>
 </div>
 
 * 축제 특성
@@ -265,7 +265,7 @@
 
 #### 3. 대전 국제 와인 EXPO
 <div align = 'center'>
-    <img src = 'image-12.png'>
+    <img src = 'README_images/image-12.png'>
 </div>
 
 * 축제 특성
@@ -284,7 +284,7 @@
 
 #### 4. 강릉 커피 축제 (강릉 스피드 스케이팅 경기장)
 <div align = 'center'>
-    <img src = 'image-13.png'>
+    <img src = 'README_images/image-13.png'>
 </div>
 
 * 축제 특성
@@ -302,7 +302,7 @@
 
 #### 5. 강릉 커피 축제 (강릉 경포호수광장)
 <div align = 'center'>
-    <img src = 'image-14.png'>
+    <img src = 'README_images/image-14.png'>
 </div>
 
 * 축제 특성
@@ -319,7 +319,7 @@
     ```
 #### 6. 임실 N 치즈 축제
 <div align = 'center'>
-    <img src = 'image-15.png'>
+    <img src = 'README_images/image-15.png'>
 </div>
 
 * 축제 특성
@@ -358,7 +358,7 @@
     data['end_cos'] = np.cos(2 * np.pi * data['end_time']/24.0)
     ```
     <div align = 'center'>
-        <img src = 'image-8.png'>
+        <img src = 'README_images/image-8.png'>
     </div>
 #### 모델링
 * Model Selection
@@ -382,7 +382,7 @@
 
 #### 최종 모델
 <div align = 'center'>
-    <img src = 'image-16.png'>
+    <img src = 'README_images/image-16.png'>
 </div>
 
 * accuracy: 0.7853
@@ -392,7 +392,7 @@
 #### 부분 의존도(PDP)를 통한 모델 해석
 부분 의존도 그래프(PDP, Partial Dependence Plot)를 통해 개별 변수가 예측에 미치는 영향 해석
 <div align = 'center'>
-    <img src = 'image-17.png'>
+    <img src = 'README_images/image-17.png'>
 </div>
 
 * 평균 이동거리: 평균 이동거리가 길수록 시내버스의 확률 감소, 지하철/철도/항공기의 확률 증가
