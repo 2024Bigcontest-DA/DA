@@ -5,7 +5,7 @@
 </div>
 
 ## 발표 자료
-* 발표 자료: [링크](![image](https://github.com/user-attachments/assets/ffada58c-6f6e-41e7-96de-a8ec7f9e57a7))
+* 발표 자료: ![image](https://github.com/user-attachments/assets/ffada58c-6f6e-41e7-96de-a8ec7f9e57a7)
 
 ## 목차
 [1. 대회 개요](#1-대회-개요)<br>
