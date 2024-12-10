@@ -5,7 +5,7 @@
 </div>
 
 ## 발표 자료
-* 발표 자료: [결과보고서]([https://github.com/user-attachments/assets/ffada58c-6f6e-41e7-96de-a8ec7f9e57a7](https://github.com/2024Bigcontest-DA/DA/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EB%B6%84%EC%95%BC_%EB%A9%8B%EC%9F%81%EC%9D%B4%ED%86%A0%EB%A7%88%ED%86%A0_%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf))
+* 발표 자료: [결과보고서](https://github.com/2024Bigcontest-DA/DA/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EB%B6%84%EC%95%BC_%EB%A9%8B%EC%9F%81%EC%9D%B4%ED%86%A0%EB%A7%88%ED%86%A0_%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
 
 ## 목차
 [1. 대회 개요](#1-대회-개요)<br>
